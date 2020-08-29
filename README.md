@@ -1,4 +1,4 @@
-# ProcesamientoImagenes
+# Procesamiento de Imagenes <<>> Image Processing
 Tuvimos que crear un código en Python que segmentara la piel de una imagen de personas. 
 Con esto, se debía analizar los falsos negativos, falsos positivos, verdaderos positivos y verdaderos negativos. 
 
